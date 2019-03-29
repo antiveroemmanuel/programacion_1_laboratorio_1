@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553821446 source:/home/alumno/Entregas/Antivero_Emmanuel/Clase4/utn.c
+	<stdio.h>
+
+1553821040 source:/home/alumno/Entregas/Antivero_Emmanuel/Clase4/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1553820969 /home/alumno/Entregas/Antivero_Emmanuel/Clase4/utn.h
+
