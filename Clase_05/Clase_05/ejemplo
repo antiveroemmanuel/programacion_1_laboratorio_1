@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+main()
+{
+    int numeros[cantidad]; //int numero[100]
+    int numero;
+
+    numero = 5;
+    numeros[10] = 5;
+
+    &numeros[0] <=====> numeros // similitud, el nombre del array devuelve el primer elemento
+    // si es mas comun utilizar &numero[valor]
+
+    return 0;
+}
+
+//pedir 5 numeros y promedio
+//llamar funcion pedir numero
+//funcion
+
+int calcularPromedio(...,int pNumeros[],...);
+int calcularPromedio(...,int* pNumeros,...)
+{
+pNumeros[10] = 555;
+*(pNu meros+10) = 555;
+}

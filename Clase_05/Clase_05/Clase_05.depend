@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1554329674 source:/home/alumno/Entregas/Antivero_Emmanuel/Clase_05/utn.c
+	<stdio.h>
+
+1554333476 source:/home/alumno/Entregas/Antivero_Emmanuel/Clase_05/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"funciones.h"
+
+1554333504 /home/alumno/Entregas/Antivero_Emmanuel/Clase_05/funciones.h
+
+1554333483 source:/home/alumno/Entregas/Antivero_Emmanuel/Clase_05/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"funciones.h"
+
+1554330292 /home/alumno/Entregas/Antivero_Emmanuel/Clase_05/utn.h
+
