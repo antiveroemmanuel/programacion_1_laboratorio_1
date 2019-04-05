@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554418887 source:/home/alumno/Entregas/Antivero_Emmanuel/Nueva Biblioteca/Utn_funciones/Clase_06aux/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1554419168 source:/home/alumno/Entregas/Antivero_Emmanuel/Nueva Biblioteca/Utn_funciones/Clase_06aux/utn_funciones.c
+	<stdio.h>
+	<stdlib.h>
+
