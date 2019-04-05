@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554417093 source:/home/alumno/Entregas/Antivero_Emmanuel/Clase_06/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1554417084 source:/home/alumno/Entregas/Antivero_Emmanuel/Clase_06/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"funciones.h"
+
+1554413938 /home/alumno/Entregas/Antivero_Emmanuel/Clase_06/funciones.h
+
